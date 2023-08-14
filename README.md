@@ -14,6 +14,8 @@
 
 #### 软件界面示意图####
 
+![输入图片说明](document/images/pc.png)
+
 ![输入图片说明](document/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230814181654.png)
 ![输入图片说明](document/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230814181704.png)
 ![输入图片说明](document/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230814181707.png)
